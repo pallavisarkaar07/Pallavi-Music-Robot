@@ -1,6 +1,6 @@
 # 𝗣𝗔𝗟𝗟𝗔𝗩𝗜-𝗠𝗨𝗦𝗜𝗖
- ➥ 𝖥ɪʀsᴛ 𝖥ᴏʀᴋ 𝖳ʜɪs 𝖱ᴇʀᴏ 𝖠ɴᴅ 𝖦ɪᴠᴇ ᴀ 𝖲ᴛᴀʀ ⭐
-➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ / ᴠᴘs / ᴋᴏʏᴀʙ / ᴇᴛᴄ..👨🏻‍💻
+ ➥ pallavi sarkar ⭐
+➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ / mafia07👨🏻‍💻
 <h1 align="center"
  
 ### 🚩🚩 जय महाकाल 🚩🚩
@@ -60,6 +60,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 ### Contact :
-<a href="https://t.me/ll_hunter_lll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-
-<a href="https://instagram.com/ksdofficial84"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://t.me/Lovemeee07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
